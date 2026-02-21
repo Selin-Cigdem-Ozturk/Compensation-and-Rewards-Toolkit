@@ -11,7 +11,7 @@ Net Pay Simulation (Tax, Pension, Benefits)
 
 **The model includes 250 employees across multiple departments, demonstrating how compensation decisions affect both individual salary progression and overall company payroll.
 
-# Project Structure
+## Project Structure
 
 Market Benchmarking (Mercer-style leveling)
 
@@ -23,7 +23,7 @@ Mapping to external survey levels
 
 Match confidence logic
 
-# Salary Band Design
+## Salary Band Design
 
 Grade-based pay structure (G5–G10)
 
@@ -33,7 +33,7 @@ Range spread calculations
 
 Market midpoint as compensation anchor
 
-# Compa-Ratio & Merit Matrix
+## Compa-Ratio & Merit Matrix
 Compa-ratio calculation (Salary / Midpoint)
 
 Compa-group segmentation
@@ -42,7 +42,7 @@ Compa-group segmentation
 
 Controlled differentiation aligned with pay-for-performance philosophy
 
-# Payroll & Budget Control
+## Payroll & Budget Control
 
 Total payroll before and after merit cycle
 
@@ -52,7 +52,7 @@ Department-level increase impact
 
 Pivot tables and summary dashboard
 
-# Net Pay Simulation
+## Net Pay Simulation
 
 Tax rate variability
 
