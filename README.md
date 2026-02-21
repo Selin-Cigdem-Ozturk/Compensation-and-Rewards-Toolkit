@@ -2,14 +2,22 @@
 
 
 The project simulates how an organization designs and manages:
-Job Architecture & Market Benchmarking
-Salary Band Structure
-Compa-Ratio Analysis
-Performance-Based Merit Matrix
-Payroll Impact & Budget Control
-Net Pay Simulation (Tax, Pension, Benefits)
 
-**The model includes 250 employees across multiple departments, demonstrating how compensation decisions affect both individual salary progression and overall company payroll.
+-Job Architecture & Market Benchmarking
+
+-Salary Band Structure
+
+-Compa-Ratio Analysis
+
+-Performance-Based Merit Matrix
+
+-Payroll Impact & Budget Control
+
+-Net Pay Simulation (Tax, Pension, Benefits)
+
+
+
+***The model includes 250 employees across multiple departments, demonstrating how compensation decisions affect both individual salary progression and overall company payroll.
 
 ## Project Structure
 
@@ -34,6 +42,7 @@ Range spread calculations
 Market midpoint as compensation anchor
 
 ## Compa-Ratio & Merit Matrix
+
 Compa-ratio calculation (Salary / Midpoint)
 
 Compa-group segmentation
