@@ -9,6 +9,8 @@ The project simulates how an organization designs and manages:
 
 -Compa-Ratio Analysis
 
+-STI calculation
+
 -Performance-Based Merit Matrix
 
 -Payroll Impact & Budget Control
