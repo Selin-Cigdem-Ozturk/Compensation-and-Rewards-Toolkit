@@ -1,4 +1,4 @@
-# Job Architecture, Salary Bands & Merit Matrix Simulation
+# Total Rewards Modeling & Compensation Toolkit
 
 
 The project simulates how an organization designs and manages:
