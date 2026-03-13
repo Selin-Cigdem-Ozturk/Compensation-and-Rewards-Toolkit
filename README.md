@@ -1,4 +1,4 @@
-# Compensation Planning & Salary Benchmarking Model
+# Total Rewards Modeling & Compensation Toolkit
 
 This project demonstrates an end-to-end **compensation planning and salary benchmarking model** built for a simulated **250-employee organization in Sweden**. The model combines market benchmarking, salary band architecture, compa-ratio analysis, merit increase logic, and short-term incentive (STI) calculations to simulate a full annual compensation review cycle.
 
